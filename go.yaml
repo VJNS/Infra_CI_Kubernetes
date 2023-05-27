@@ -19,7 +19,7 @@ spec:
     
       containers: 
        - name: go
-         image: valterjns/go_ci:23 
+         image: valterjns/go_ci:64
          ports:
           - containerPort: 8000
          env:
